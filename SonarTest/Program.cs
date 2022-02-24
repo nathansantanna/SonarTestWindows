@@ -6,7 +6,9 @@ namespace SonarTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!");
+            Console.WriteLine("Hello Sonar!!");
+            if (true)
+                Console.WriteLine("duh");
         }
     }
 }
