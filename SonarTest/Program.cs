@@ -8,7 +8,7 @@ namespace SonarTest
         {
             Console.WriteLine("Hello World!!");
             if (true)
-                Console.WriteLine("jhonson");
+                Console.WriteLine("jhonson2");
         }
     }
 }
