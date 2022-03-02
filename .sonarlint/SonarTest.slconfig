@@ -1,0 +1,15 @@
+{
+  "ServerUri": "https://sonarcloud.io/",
+  "Organization": {
+    "Key": "nathansantanna",
+    "Name": "nathansantanna"
+  },
+  "ProjectKey": "nathansantanna_SonarTestWindows",
+  "ProjectName": "SonarTestWindows",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AX8trd90dXhdTwU83YR3",
+      "ProfileTimestamp": "2021-11-22T10:44:23Z"
+    }
+  }
+}
